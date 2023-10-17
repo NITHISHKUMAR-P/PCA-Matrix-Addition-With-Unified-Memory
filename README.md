@@ -19,7 +19,7 @@ Execute the program and run the terminal.
 Developed By : **Nithishkumar P**
 </br>
 Register No. : **212221230070**
-### With Memset
+### With Memset:
 ```cuda
 %%cu
 #include <cuda_runtime.h>
@@ -248,7 +248,7 @@ int main(int argc, char **argv)
     return (0);
 }
 ```
-### Without Memset
+### Without Memset:
 ```cuda
 %%cu
 #include <cuda_runtime.h>
